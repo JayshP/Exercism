@@ -31,7 +31,7 @@ class RnaTranscription {
 }
     //public static void main(String[] args){
 	//RnaTranscription rnatrans=new RnaTranscription();
-	//String newStrand=rnatrans.transcribe(null);
+	//String newStrand=rnatrans.transcribe("A");
 	//System.out.println(newStrand);
 //}
 }

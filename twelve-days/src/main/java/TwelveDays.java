@@ -56,8 +56,8 @@ class TwelveDays {
 	for(int i=startVerse;i<endVerse;i++){
 		lines=lines+verse(i)+"\n";
 	}
-        lines=lines+verse(endVerse);
-	return lines;
+       
+	return lines+verse(endVerse);
     }
     
     String sing() {

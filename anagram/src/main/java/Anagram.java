@@ -19,7 +19,7 @@ public class Anagram{
         			}
 	
 				int len1=anagram.length();
-	/
+	
 				int i=0;
 				for(i=0;i<len1;i++){
 					if(chars1.contains(Character.toLowerCase(chars.get(i)))){

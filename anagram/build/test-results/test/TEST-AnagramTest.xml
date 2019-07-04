@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AnagramTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2019-07-04T15:55:23" hostname="jayashree" time="0.03">
+<testsuite name="AnagramTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2019-07-04T17:56:25" hostname="jayashree" time="0.028">
   <properties/>
-  <testcase name="testCaseInsensitiveWhenBothAnagramAndSubjectStartWithUpperCaseLetter" classname="AnagramTest" time="0.012"/>
+  <testcase name="testCaseInsensitiveWhenBothAnagramAndSubjectStartWithUpperCaseLetter" classname="AnagramTest" time="0.011"/>
   <testcase name="testEliminateAnagramSubsets" classname="AnagramTest" time="0.0"/>
-  <testcase name="testAnagramMustUseAllLettersExactlyOnce" classname="AnagramTest" time="0.0"/>
+  <testcase name="testAnagramMustUseAllLettersExactlyOnce" classname="AnagramTest" time="0.001"/>
   <testcase name="testIdenticalWordRepeatedIsNotAnagram" classname="AnagramTest" time="0.0"/>
-  <testcase name="testDetectMultipleAnagramsForLongerWord" classname="AnagramTest" time="0.006"/>
-  <testcase name="testDetectMultipleAnagrams" classname="AnagramTest" time="0.002"/>
-  <testcase name="testWordsAreNotAnagramsOfThemselvesCaseInsensitive" classname="AnagramTest" time="0.001"/>
+  <testcase name="testDetectMultipleAnagramsForLongerWord" classname="AnagramTest" time="0.005"/>
+  <testcase name="testDetectMultipleAnagrams" classname="AnagramTest" time="0.001"/>
+  <testcase name="testWordsAreNotAnagramsOfThemselvesCaseInsensitive" classname="AnagramTest" time="0.0"/>
   <testcase name="testCaseInsensitiveWhenSubjectStartsWithUpperCaseLetter" classname="AnagramTest" time="0.001"/>
-  <testcase name="testCaseInsensitiveWhenAnagramStartsWithUpperCaseLetter" classname="AnagramTest" time="0.002"/>
-  <testcase name="testDetectLongerAnagram" classname="AnagramTest" time="0.001"/>
+  <testcase name="testCaseInsensitiveWhenAnagramStartsWithUpperCaseLetter" classname="AnagramTest" time="0.001"/>
+  <testcase name="testDetectLongerAnagram" classname="AnagramTest" time="0.002"/>
   <testcase name="testNoMatches" classname="AnagramTest" time="0.0"/>
-  <testcase name="testEliminateAnagramsWithSameChecksum" classname="AnagramTest" time="0.001"/>
+  <testcase name="testEliminateAnagramsWithSameChecksum" classname="AnagramTest" time="0.0"/>
   <system-out><![CDATA[O
 r
 c
