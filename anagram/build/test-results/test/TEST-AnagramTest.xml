@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnagramTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2019-07-04T15:55:23" hostname="jayashree" time="0.03">
+  <properties/>
+  <testcase name="testCaseInsensitiveWhenBothAnagramAndSubjectStartWithUpperCaseLetter" classname="AnagramTest" time="0.012"/>
+  <testcase name="testEliminateAnagramSubsets" classname="AnagramTest" time="0.0"/>
+  <testcase name="testAnagramMustUseAllLettersExactlyOnce" classname="AnagramTest" time="0.0"/>
+  <testcase name="testIdenticalWordRepeatedIsNotAnagram" classname="AnagramTest" time="0.0"/>
+  <testcase name="testDetectMultipleAnagramsForLongerWord" classname="AnagramTest" time="0.006"/>
+  <testcase name="testDetectMultipleAnagrams" classname="AnagramTest" time="0.002"/>
+  <testcase name="testWordsAreNotAnagramsOfThemselvesCaseInsensitive" classname="AnagramTest" time="0.001"/>
+  <testcase name="testCaseInsensitiveWhenSubjectStartsWithUpperCaseLetter" classname="AnagramTest" time="0.001"/>
+  <testcase name="testCaseInsensitiveWhenAnagramStartsWithUpperCaseLetter" classname="AnagramTest" time="0.002"/>
+  <testcase name="testDetectLongerAnagram" classname="AnagramTest" time="0.001"/>
+  <testcase name="testNoMatches" classname="AnagramTest" time="0.0"/>
+  <testcase name="testEliminateAnagramsWithSameChecksum" classname="AnagramTest" time="0.001"/>
+  <system-out><![CDATA[O
+r
+c
+h
+e
+s
+t
+r
+a
+t
+a
+p
+a
+l
+l
+e
+r
+g
+y
+a
+l
+l
+e
+r
+g
+y
+a
+l
+l
+e
+r
+g
+y
+a
+l
+m
+a
+s
+t
+e
+r
+m
+a
+s
+t
+e
+r
+O
+r
+c
+h
+e
+s
+t
+r
+a
+o
+r
+c
+h
+e
+s
+t
+r
+a
+l
+l
+i
+s
+t
+e
+n
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
