@@ -6,7 +6,7 @@ class RnaTranscription {
 	char[] rna = new char[len];
 	char c='a';
 	for(int i=0;i<len;i++){
-		char a=dnaStrand.charAt(i);	
+		char a=Character.toUpperCase(dnaStrand.charAt(i));	
 		if (a=='G'){
 			c='C';}
 		else if (a=='C'){
@@ -31,7 +31,7 @@ class RnaTranscription {
 }
     //public static void main(String[] args){
 	//RnaTranscription rnatrans=new RnaTranscription();
-	//String newStrand=rnatrans.transcribe("A");
+	//String newStrand=rnatrans.transcribe("GgCt");
 	//System.out.println(newStrand);
 //}
 }
