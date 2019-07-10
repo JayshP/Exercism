@@ -40,7 +40,7 @@ class RnaTranscription {
 }
    // public static void main(String[] args){
 	//RnaTranscription rnatrans=new RnaTranscription();
-	//String newStrand=rnatrans.transcribe("GgC3");
+	//String newStrand=rnatrans.transcribe("Aa");
 	//System.out.println(newStrand);
 //}
 }
